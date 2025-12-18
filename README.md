@@ -1,17 +1,39 @@
-# Hi, I'm elweshaq-hub 👋
+# Mohsen Hany | elweshaq
 
-> Crafting clean, maintainable code and turning ideas into delightful products.  
-> I'm a problem solver who loves open source, collaboration, and continuous learning.
-
-[![GitHub followers](https://img.shields.io/github/followers/elweshaq-hub?label=Follow&style=for-the-badge)](https://github.com/elweshaq-hub)
-[![Top Langs](https://img.shields.io/github/languages/top/elweshaq-hub?style=for-the-badge)](https://github.com/elweshaq-hub)
-[![Most Recent Commit](https://img.shields.io/github/last-commit/elweshaq-hub/elweshaq-hub?style=for-the-badge)](https://github.com/elweshaq-hub)
+**Full‑Stack Developer • Automation & Scripting • System Integration • UI/UX**
 
 ---
 
-## About Me
-I build software that solves real problems and make it easy for teams to ship with confidence. I enjoy working across the full stack, contributing to open source, and mentoring others.
+## 🛠 Skills
 
+- **Front-End:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- **Back-End:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Automation & Scripting**  
+- **UI/UX Design**  
+- **System Integration**
+
+---
+
+## 🌟 Theme Inspiration
+
+Inspired by the agility and elegance of the lynx:  
+
+![Lynx Big Cat](https://tenor.com/view/lynx-big-cat-gif-22513640)
+
+---
+
+## 📂 Projects
+
+- Automation Tools & Scripts  
+- Full-Stack Web Apps  
+- Mobile Apps with Flutter  
+
+---
+
+## 📬 Contact
+
+- GitHub: [github.com/mohsen-hany-dev](https://github.com/mohsen-hany-dev)  
+- Email: mohsen@example.com
 - 🔭 I’m currently working on: meaningful projects that improve developer experience and user reliability.
 - 🌱 I’m learning: new patterns in scalable systems, advanced testing strategies, and design systems.
 - 👯 I’m open to collaborating on: web apps, developer tools, and accessible design systems.
