@@ -12,17 +12,7 @@
 - **Automation & Scripting**  
 - **UI/UX Design**  
 - **System Integration**
-
 ---
-
-## 🌟 Theme Inspiration
-
-Inspired by the agility and elegance of the lynx:  
-
-![Lynx Big Cat](https://tenor.com/view/lynx-big-cat-gif-22513640)
-
----
-
 ## 📂 Projects
 
 - Automation Tools & Scripts  
