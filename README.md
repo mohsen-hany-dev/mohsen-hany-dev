@@ -24,8 +24,10 @@
 ## 📬 Contact
 
 - GitHub: [github.com/mohsen-hany-dev](https://github.com/mohsen-hany-dev)  
-- Email: mohsen@example.com# Mohsen Hany | elweshaq
-
+- Email: mohsen.hany.dev@gmail.com# Mohsen Hany | elweshaq
+- Telegram:https://t.me/XET_F
+- WhatsApp:https://wa.me/message/XV2XYD3K6IUXD1
+- LinkedIn:https://linkedin.com/in/mohsen-al-arabi-63b05839b
 **Full‑Stack Developer • Automation & Scripting • System Integration • UI/UX**
 
 ---
